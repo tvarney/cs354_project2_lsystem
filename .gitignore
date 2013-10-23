@@ -1,0 +1,23 @@
+# Executable
+plant
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Bison and Flex output files
+*.lex.c
+*.tab.*
+
+# Emacs temporaries
+*~
